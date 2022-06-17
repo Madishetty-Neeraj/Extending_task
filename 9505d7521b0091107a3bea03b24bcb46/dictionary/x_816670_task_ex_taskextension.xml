@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="taskExtension" max_length="40" name="x_816670_task_ex_taskextension" sizeclass="4" type="collection"/>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="taskExtension">f823ccf21b8c91107a3bea03b24bcb09</application>
+        <filter/>
+        <name>taskExtensions</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_816670_task_ex.taskextension_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-16 05:11:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f423ccf21b8c91107a3bea03b24bcb19</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>taskExtensions</sys_name>
+        <sys_package display_value="task_ext" source="x_816670_task_ex">9505d7521b0091107a3bea03b24bcb46</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="task_ext">9505d7521b0091107a3bea03b24bcb46</sys_scope>
+        <sys_update_name>sys_ui_module_f423ccf21b8c91107a3bea03b24bcb19</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-16 05:11:13</sys_updated_on>
+        <table>x_816670_task_ex_taskextension</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
